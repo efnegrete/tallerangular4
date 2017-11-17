@@ -2,7 +2,7 @@
 Pasos para hacer funcionar aplicaciones con Angular 4
 
 Pre Requisitos
- # 1 nodej:v6.10.0
+ # 1 Nodej:v6.10.0
  https://nodejs.org/dist/v6.10.0/
  # 2 Angular cli: 1.4.2
   npm install --g @angular/cli@1.4.2
