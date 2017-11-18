@@ -33,7 +33,9 @@ Pre Requisitos
  # *Compilar
    ng build dev/prod  
     
- 
+ # Componente Grilla
+ https://www.npmjs.com/package/angular-4-data-table
+ comando:npm install angular-4-data-table --save
  ***************************************
  # *Paso  para ejecutar los demos
    >tallerangular4>npm install
